@@ -53,6 +53,19 @@
 
 ## Question 3: What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it? 
 * Step 1: sort industry Z-->A, copy and paste all tobacco values to seperate sheet
-* Step 2: sort donors Z -->A to identify all donations made by Phillip Morris **2,070,000** !['T1.JPG', 'Tobacco Values for Phillip Morris'](/T1.JPG)
-* Divide Phillip Morris contributions (2,070,000) by total (2,820,000) = (2,070,000/2,820,000) = **73.40% of tobacco contributions were from Phillip Morris** !['T2.JPG', 'Tobacco Contributions Sum'](/T2.JPG)
-* 
+* Step 2: sort donors Z -->A to identify all donations made by Phillip Morris **2,070,000** </br>
+*  !['T2.JPG', 'Tobacco Values for Phillip Morris'](/T2.JPG)
+* Divide Phillip Morris contributions (2,070,000) by total (2,820,000) = (2,070,000/2,820,000) = **73.40% of tobacco contributions were from Phillip Morris** </br>
+!['T1.JPG', 'Tobacco Contributions Sum'](/T1.JPG)
+
+## Question 3: Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.</br>
+
+### Question 4 & 5 What one man can do: How Phillip Morris was the single biggest donor to the 1995 Political Campaign
+* This story would be about how Phillip Morris is the biggest single contributor in this politcal campaign, what this means for tobacco companies and to invesitgate if any laws around tobacco production are swayed becuase of this 
+* Data
+  * 2014 Surgeon Report: The Health Consequences of Smoking https://www.cdc.gov/tobacco/data_statistics/sgr/50th-anniversary/index.htm
+  * CPI for Smoking & Tobacco: https://fred.stlouisfed.org/series/CUUR0000SEGA
+ * Sources:
+   * Tobacco Lobbying, Open Secrets: https://www.opensecrets.org/industries/indus.php?ind=A02
+   * https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/
+   * 
