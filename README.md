@@ -58,9 +58,9 @@
 * Divide Phillip Morris contributions (2,070,000) by total (2,820,000) = (2,070,000/2,820,000) = **73.40% of tobacco contributions were from Phillip Morris** </br>
 !['T1.JPG', 'Tobacco Contributions Sum'](/T1.JPG)
 
-## Question 3: Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.</br>
+## Question 4/5 : Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask. What data might be suitable to join with this data to provide context or additional stories? Give me two examples.</br>
 
-### Question 4 & 5 What one man can do: How Phillip Morris was the single biggest donor to the 1995 Political Campaign
+### What one man can do: How Phillip Morris was the single biggest donor to the 1995 Political Campaign
 * This story would be about how Phillip Morris is the biggest single contributor in this politcal campaign, what this means for tobacco companies and to invesitgate if any laws around tobacco production are swayed becuase of this 
 * Data
   * 2014 Surgeon Report: The Health Consequences of Smoking https://www.cdc.gov/tobacco/data_statistics/sgr/50th-anniversary/index.htm
@@ -68,4 +68,5 @@
  * Sources:
    * Tobacco Lobbying, Open Secrets: https://www.opensecrets.org/industries/indus.php?ind=A02
    * https://www.theatlantic.com/business/archive/2015/04/how-corporate-lobbyists-conquered-american-democracy/390822/
-   * 
+   * https://pubmed.ncbi.nlm.nih.gov/12856736/
+   * https://tobaccocontrol.bmj.com/content/8/2/196
