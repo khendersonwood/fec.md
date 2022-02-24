@@ -47,4 +47,12 @@
 * Step 1: Create Pivot Table
   * Rows: Sector, Columns: Party, Values: Amount **The Misc. Business sector contributed $3,520,000 to the Democratic Party
  * Step 2: Copy and paste all Misc Business donations to a seperate spreadsheet, sort party Z-->A to seperate D & R donations, search (apple F) for "Miami Lakes" entry and find **2 donations were from Miami Lakes from Windmere Corp**
-!['PT2.JPG', 'Pivot Table Table for Question #1'](/PT2.JPG)
+!['PT2.JPG', 'Pivot Table Table for Question #2'](/PT2.JPG)
+
+</br> 
+
+## Question 3: What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it? 
+* Step 1: sort industry Z-->A, copy and paste all tobacco values to seperate sheet
+* Step 2: sort donors Z -->A to identify all donations made by Phillip Morris **2,070,000** !['T1.JPG', 'Tobacco Values for Phillip Morris'](/T1.JPG)
+* Divide Phillip Morris contributions (2,070,000) by total (2,820,000) = (2,070,000/2,820,000) = **73.40% of tobacco contributions were from Phillip Morris** !['T2.JPG', 'Tobacco Contributions Sum'](/T2.JPG)
+* 
