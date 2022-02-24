@@ -3,15 +3,32 @@
 ## First: Clean Data
 * Step 1: Upload to Open Refine --> Create Project
 * Step 2: Cluster data, search for spelling misatkes, remove trailing and leading white space
-* Step 3:Sorted cities A --> Z
- * Changed BETHELEHEM --> BETHLEHEM
- * Changed American Airlines donation city from Dallas/FortWorth --> Fortworth where their headquarters are
- * Changed NEWYORKROOK --> New York
- * Adjusted capitlization in Research Traingle & RESEARCH Triangle to match (ALL CAPS)
- * Changed SONNYWALE --> SONNYVALE
+* Step 3: Sort cities A --> Z
+  * Changed BETHELEHEM --> BETHLEHEM
+  * Changed American Airlines donation city from Dallas/FortWorth --> Fortworth where their headquarters are
+  * Changed NEWYORKROOK --> New York
+  * Adjusted capitlization in Research Traingle & RESEARCH Triangle to match (ALL CAPS)
+  * Changed SONNYWALE --> SONNYVALE
 * Step 4: Sorted through zip codes
- * Added a zipcode to American Airlines row 
- * Added zipcode to Johnson Co, NY, NY: 10016
+  * Added a zipcode to American Airlines row 
+  * Added zipcode to Johnson Co, NY, NY: 10016
+* Step 5: Sorted through dates & Deleted duplicate columns:
+  * Bristol-Myers Squibb, 3/21/96, $100,000
+  * Scripps, Edward Wyllis, 7/31/96, $125,000
+  * RJ Reynolds Tobacco, 10/17/96, $100,000
+  * Senate Republican Campaign Cmte, 10/18/96, $100,000
+  * Friess, Foster, 10/21/96, $100,000
+  * Union Pacific Corp, 10/21/96, $100,000
+  * Brown & Williamson Tobacco, 10/23/96, $100,000
+  * California Republican Party, 10/24/96, $675,000
+  * Lauder, Ronald S, 10/25/96, $100,000
+  * Senate Republican Campaign Cmte, 10/25/96, $100,000
+  * Senate Republican Campaign Cmte, 10/28/96, $100,000
+  * Murdoch, Anna M, 11/1/96, $250,000
+  * Cafaro, John J, 11/7/96, $100,000
+  * New York Republican State Cmte, 12/21/96, $1,500,000
+  
+
 
 ## Question 1: Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?
 * Step 1: Open data sheet in Open Refine
@@ -24,5 +41,5 @@
 !['PT1.JPG', 'Pivot Table Table for Question #1'](/PT1.JPG)
 * Step 7: Copy and paste data from pivot table #1 to another data set
 * Step 8: Sort Rows D & A from Z --> A </br>
-**Answer: The tobacco industry contributes most to the Republican party and the media/entertainment indsutry contributes most to the Democratic party** </br>
+**Answer: The Republican/Conservative indsutry contributed the most to the Republican party at a total of $7,514,000 and the media/entertainment indsutry contributes most to the Democratic party at $1,880,000.** **In total, the Democratic Party recieved $21,553,578 and the Republican Party Recieved $30,749,000 </br> ** </br>
 
