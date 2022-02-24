@@ -41,5 +41,10 @@
 !['PT1.JPG', 'Pivot Table Table for Question #1'](/PT1.JPG)
 * Step 7: Copy and paste data from pivot table #1 to another data set
 * Step 8: Sort Rows D & A from Z --> A </br>
-**Answer: The Republican/Conservative indsutry contributed the most to the Republican party at a total of $7,514,000 and the media/entertainment indsutry contributes most to the Democratic party at $1,880,000.** **In total, the Democratic Party recieved $21,553,578 and the Republican Party Recieved $30,749,000 </br> ** </br>
+**Answer: The Republican/Conservative indsutry contributed the most to the Republican party at $5,039,000 and the media/entertainment indsutry contributed most to the Democratic party at $1,880,000.** **In total, the Democratic Party recieved $21,553,578 and the Republican Party Recieved $27,199,000 </br> ** </br>
 
+## Question 2: How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL? (Remember to give me the answer and the steps you took to get the answer.)
+* Step 1: Create Pivot Table
+  * Rows: Sector, Columns: Party, Values: Amount **The Misc. Business sector contributed $3,520,000 to the Democratic Party
+ * Step 2: Copy and paste all Misc Business donations to a seperate spreadsheet, sort party Z-->A to seperate D & R donations, search (apple F) for "Miami Lakes" entry and find **2 donations were from Miami Lakes from Windmere Corp**
+!['PT2.JPG', 'Pivot Table Table for Question #1'](/PT2.JPG)
