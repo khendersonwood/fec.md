@@ -8,4 +8,4 @@
 * Step 4: Import to excel
 * Step 5: Freeze top row
 * Step 6: Create Pivot Table
-!['PT1','Pivot Table for Question 1'](/PT1.jpg) 
+!['PT1.JPG', 'Pivot Table Table for Question #1'](/PT1.JPG)
