@@ -1,2 +1,1 @@
-# fec.md
-Intro to Markdown &amp; Documentation: Campaign Finance Data
+## Intro to Markdown & Documentation: Campaign Finance Data
